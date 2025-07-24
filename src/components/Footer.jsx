@@ -30,9 +30,7 @@ const Footer = () => {
   const services = [
     'Past Life Regression',
     'Family Constellation',
-    'Hypnotherapy',
     'Relationship Healing',
-    'Health Block Clearing',
     'Wealth Block Removal'
   ];
 
